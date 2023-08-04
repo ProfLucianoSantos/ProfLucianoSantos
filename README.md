@@ -6,8 +6,8 @@
 Aqui estão algumas idéias para começar:
 
 - 👨🏾‍🎓 Mestrando em **Engenharia Informática e Tecnologia Web** na **UTAD** (Universidade de Trás-os-Montes e Alto Douro - Portugal)
-- 🔭 Trabalho como Consultor Autônomo em Projetos de Sustentação e Desenvolvimento de Software
-- 🌱 Atualmente estudo Ciência de Dados na **Data Science Academy** vou disponibilizar alguns projetos de estudo em meu GitHub
+- 🔭 Professor da FASIPE
+- 🌱 **Linguagem de Programação Orientada a Objetos** vou disponibilizar alguns projetos de estudo em meu GitHub
 
 <div align="center" dir="auto">
   <a href="https://github.com/LucianoSilvaSantos/">
